@@ -1,0 +1,44 @@
+
+
+.f_product{
+width: 130px;
+    margin: 30px 60px;
+    float: left;
+    background: transparent;
+    /* transition: background 0.3s; */
+    font-family:  Arial, sans-serif;
+
+
+
+}
+
+.f_img{
+	    max-width: 120px;
+        border: none;
+}
+
+
+.f_title{
+       color: #464646;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 17px 0 30px 22px;
+    height: 48px;
+    
+}
+
+.f_title:hover{
+       color: #F3930B;
+   }
+
+.f_price{
+	 color: #333333;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 2px 0 0;
+}
+.featured_header{
+	text-align: center;
+	color: #4575B7;
+	font-size: 28px;
+}
